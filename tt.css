@@ -1,0 +1,90 @@
+#img1 {
+    height: 100vh;
+}
+
+#img2 {
+    height: 100vh;
+}
+
+#img3 {
+    height: 100vh;
+}
+
+marquee {
+    font-size: 30px;
+    font-weight: 800;
+    color: #8ebf42;
+    font-family: sans-serif;
+}
+
+#un {
+    height: 15vh;
+}
+
+.cont {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.card {
+    margin: 10px;
+}
+
+h4 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(228, 175, 107);
+    width: 100%;
+}
+
+.foot {
+    display: inline;
+    /* flex-direction: column; */
+    margin-bottom: 10px;
+}
+
+img {
+    display: flex;
+    /* width: 200px; */
+    display: inline-block;
+    height: 200px;
+    margin: 5px;
+}
+
+h3 {
+    color: brown;
+    text-align: center;
+    margin: 20px;
+    background-color: white !important;
+}
+
+h4 {
+    color: green;
+}
+
+.add {
+    margin-left: 60px;
+    color: white;
+    margin-top: 20px;
+}
+
+.subs {
+    padding-top: 20px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.scroll {
+    background-color: rgb(180, 219, 180);
+    text-align: right;
+    margin-right: 40px;
+}
